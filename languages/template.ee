@@ -35,8 +35,8 @@ export default {
 
     // Settings page
     //
-    english: 'English',
-    display: 'Display',
+    english: 'iŋlisi ',
+    display: 'Ɖee fia ',
     language: {
         label: 'Gbegbɔgblɔ',
         placeholder: 'Gbegbᴐgblᴐ ',
